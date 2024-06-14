@@ -1,3 +1,0 @@
-name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch
-mAL1	SEEG	uV	0.5	5000	intracranial	depthAmgL	2000	n/a
-mAL2	SEEG	uV	0.5	5000	intracranial	depthAmgL	2000	n/a
